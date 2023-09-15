@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIG-SERVER
+    name: Config-Default
 
 server:
   port: 8086
